@@ -107,7 +107,7 @@ I want to thank my team for their hard work and dedication
 
 
 
-# Hi, I'm Vishvanath ! 👋
+# Hi, I'm Shubham ! 👋
 
 ## 🔗 Connect with me on LinkedIn 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvanath-metkari-586617197/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-nikam-b52ba41a3/)
